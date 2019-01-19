@@ -1,0 +1,18 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2vw
+}
+
+p {
+  font-family: tahoma
+}
+
+.tab { 
+  text-indent: 40px;
+}
+
